@@ -2,8 +2,10 @@
 
 I'm a web developer with a passion 🔥 for front-end development and I'm an aspiring cybersecurity professional. I enjoy working on open source projects; I'm currently maintaining React Spring Modal and contributing to Use Shopping Cart. I also like exploring automation 🤖 and tooling 🔧. Most of the time, I like to relax by playing some casual video games and watching TV shows. My pronouns are she/her/hers.
 
-You can reach me on [Mastodon](https://mastodon.lol/@andria_girl) or via [Email](mailto:andria_girl@proton.me).
+You can reach me via [Email](mailto:andria_girl@proton.me).
+
+[![Andria's CodeWars Profile](https://www.codewars.com/users/andria_dev/badges/large)](https://www.codewars.com/users/andria_dev)
 
 [![Andria's GitHub Stats](https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=aura&hide_border=true&username=andria-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://api.ghprofile.me/view?username=andria-dev&style=flat&label=Profile+View+Count&color=F63671)](https://ghprofile.me/?username=andria-dev)
+<a href="https://stackoverflow.com/users/4709300/andria"><img src="https://stackoverflow.com/users/flair/4709300.png" width="208" height="58" alt="profile for Andria at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Andria at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
