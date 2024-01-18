@@ -8,4 +8,4 @@ You can reach me via [Email](mailto:andria_girl@proton.me).
 
 [![Andria's GitHub Stats](https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=aura&hide_border=true&username=andria-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://stackoverflow.com/users/4709300/andria"><img src="https://stackoverflow.com/users/flair/4709300.png" width="208" height="58" alt="profile for Andria at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Andria at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/4709300/andria"><img src="https://stackoverflow.com/users/flair/4709300.png?theme=dark" width="208" height="58" alt="profile for Andria at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Andria at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
