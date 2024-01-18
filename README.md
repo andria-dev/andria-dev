@@ -1,6 +1,6 @@
 # Hi, I'm Andria 🧙‍♀️
 
-I'm a web developer with a passion 🔥 for front-end development and I'm an aspiring cybersecurity professional. I enjoy working on open source projectst. I also like exploring automation 🤖 and tooling 🔧. Most of the time, I like to relax by playing some video games and watching TV shows. My pronouns are she/her/hers.
+I'm a web developer with a passion 🔥 for front-end development and I'm an aspiring cybersecurity professional. I enjoy working on open source projectst. I also like exploring automation 🤖 and tooling 🔧. Most of the time, I like to relax by playing some video games and watching TV shows. Unionize your workplace! And never stop striving for the day when Capitalism falls.
 
 You can reach me via [Email](mailto:andria_girl@proton.me).
 
